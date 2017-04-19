@@ -1,5 +1,5 @@
 # Lazy-Man
-This man is lazy and nothing is left.
+This man is lazy.
 
 I am an interesting Chinese man.
 Running is my favorite sport.
